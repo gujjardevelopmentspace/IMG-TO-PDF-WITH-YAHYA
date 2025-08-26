@@ -5,7 +5,7 @@ Here’s a polished **README.md** tailored for the **"IMG-TO-PDF-WITH-YAHYA"** G
 ```markdown
 # IMG-TO-PDF-WITH-YAHYA
 
-> **Note:** The current description repeats the “Amazon Frontend Clone” content—looks like a placeholder. The following README updates it to reflect actual functionality: Image-to-PDF conversion.
+> Note: The current description repeats the “Amazon Frontend Clone” content—looks like a placeholder. The following README updates it to reflect actual functionality: Image-to-PDF conversion.
 
 ##  Overview
 
